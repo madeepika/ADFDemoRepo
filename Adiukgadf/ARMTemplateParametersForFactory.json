@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "Adiukgadf"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
